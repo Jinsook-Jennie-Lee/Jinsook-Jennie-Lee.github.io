@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About
-permalink: /about/
+title: papers
+permalink: /papers/
 ---
 
