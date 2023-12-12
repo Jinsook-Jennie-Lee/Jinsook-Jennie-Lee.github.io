@@ -18,7 +18,7 @@ Outside of work, I have a love-hate relationship with tennis — As a member of 
 **Oct 11th, 2023** My advisor and I gave a talk about our on-going literature review "Bias in Large Language Models in Education:
 Sources, Measures, and Mitigation Strategies" at [NCME-AIMC](https://www.ncme-aime.org/){:target="_blank"}(National Council on Measurement in Education-AI in Measurement and Education) 
 
-**July 7th, 2023** Our workshop paper "Augmenting Holistic Review in University Admission using Natural Language Processing for Essays and Recommendation Letters" has been accepted at AIED Tokyo 2024!
+**July 7th, 2023** Our workshop paper "Augmenting Holistic Review in University Admission using Natural Language Processing for Essays and Recommendation Letters" has been accepted at AIED Tokyo 2023!
 
 ## Selected Publications
 
