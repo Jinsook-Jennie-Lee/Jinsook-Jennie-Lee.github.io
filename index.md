@@ -25,7 +25,7 @@ Sources, Measures, and Mitigation Strategies" at [NCME-AIMC](https://www.ncme-ai
 **Jinsook Lee**, Bradon Thymes, Joyce Zhou, Thorsten Joachims, and Rene Kizilcec\
 *EDI in EdTech R&D workshop at Artificial Intelligence in Education: 24th International Conference (AIED '23)*
 
-[** Early Prediction Model of Student Performance Based on Deep Neural Network Using Massive LMS Log Data**](https://koreascience.kr/article/JAKO202131541825407.page){:target="_blank"}\
+[**Early Prediction Model of Student Performance Based on Deep Neural Network Using Massive LMS Log Data**](https://koreascience.kr/article/JAKO202131541825407.page){:target="_blank"}\
 Kibum Moon, Jinwon Kim, and **Jinsook Lee**\
 *The Journal of the Korea Contents Association, 21(10), 1-10*
 
