@@ -8,15 +8,21 @@ permalink: /papers/
 
 
 ## Working Papers
+*Journal Articles*
 **Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text**\
 AJ Alvero, Alejandra Regla-Vargas, **Jinsook Lee**, Rene Kizilcec, Thorsten Joachnims, anthony lising antonio\
 *Journal of Big Data* (Under reivew)
 
 **Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies**\
-**Jinsook Lee**, Yann Hicke, Emma Harvey, Renzhe Yu, Christopher Brooks and Rene Kizilcec
+**Jinsook Lee**, Yann Hicke, Emma Harvey, Renzhe Yu, Christopher Brooks and Rene Kizilcec\
 
-**Assessing Representation of Identity Groups in Human-Generated and ChatGPT-Generated College Admission Essays: A Post-Affirmative Action Era Perspective**\
+**Assessing Representation of Identity Groups in Human-Generated and ChatGPT-Generated College Admission Essays**\
 **Jinsook Lee**, AJ Alvero, Thorsten Joachims, Rene Kizilcec
+
+*Book Chapter*
+**Artificial Communication and Media Realism in College Admissions**\
+Sebastian Munoz-Najar Galvez, **Jinsook Lee**, AJ Alvero, Sheridan Stewart, Rene Kizilcec, Amy Desiderio\
+*The Digitized Campus: Artificial Intelligence and Big Data in Higher Education*
 
 ## Conference Proceedings
 ### 2023
@@ -45,6 +51,7 @@ Kibum Moon, Jinwon Kim, and **Jinsook Lee**\
 *Journal of the Korean Society of Clothing and Textiles, 43(1), 138-153*
 
 ## Others (Book chapter, white papers, etc)
+### 2023
 [**Fairness Hub Technical Briefs: AUC Gap**](https://arxiv.org/abs/2309.12371){:target="_blank"}\
 **Jinsook Lee**, Christopher Brooks, Renzhe Yu, and Rene Kizilcec
 
