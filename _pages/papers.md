@@ -13,23 +13,23 @@ mdb { color: MidnightBlue }
 </style>
 
 ## <mdb>Working Papers</mdb>
-*Journal Articles*\
+<dgr>Journal Articles</dgr>\
 **Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text**\
 AJ Alvero, Alejandra Regla-Vargas, **Jinsook Lee**, Rene Kizilcec, Thorsten Joachnims, anthony lising antonio\
 *Journal of Big Data* (Under reivew)
 
 **Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies**\
-**Jinsook Lee**, Yann Hicke, Emma Harvey, Renzhe Yu, Christopher Brooks and Rene Kizilcec\
+**Jinsook Lee**, Yann Hicke, Emma Harvey, Renzhe Yu, Christopher Brooks and Rene Kizilcec
 
 **Assessing Representation of Identity Groups in Human-Generated and ChatGPT-Generated College Admission Essays**\
 **Jinsook Lee**, AJ Alvero, Thorsten Joachims, Rene Kizilcec
 
-*Book Chapter*\
+<dgr>Book Chapter</dgr>\
 **Artificial Communication and Media Realism in College Admissions**\
 Sebastian Munoz-Najar Galvez, **Jinsook Lee**, AJ Alvero, Sheridan Stewart, Rene Kizilcec, Amy Desiderio\
 *The Digitized Campus: Artificial Intelligence and Big Data in Higher Education*
 
-## <mdb>Conference Proceedings<\mdb>
+## <mdb>Conference Proceedings</mdb>
 ### <dgr>2023</dgr>
 [**Augmenting Holistic Review in University Admission using Natural Language Processing for Essays and Recommendation Letters**](https://arxiv.org/pdf/2306.17575.pdf){:target="_blank"}\
 **Jinsook Lee**, Bradon Thymes, Joyce Zhou, Thorsten Joachims, and Rene Kizilcec\
