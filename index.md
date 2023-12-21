@@ -13,12 +13,12 @@ Prior to Cornell, I was a data scientist at Korea University to develop course a
 Outside of work, I have a love-hate relationship with tennis — As a member of the Cornell Korean Tennis Club, you'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening to music (64,681 minutes listened in 2023!) 
 
 ## News 
-**Dec 7th, 2023** Our session proposal "Application Essays and Characters in Higher Education Admissions" has been accepted for presentation at NCME 2024!
+**Dec 7th, 2023** Our proposal "Application Essays and Characters in Higher Education Admissions" has been accepted to [NCME 2024](https://www.ncme.org/home){:target="_blank"}. See you in Philadelphia!
 
 **Oct 11th, 2023** My advisor and I gave a talk about our on-going literature review "Bias in Large Language Models in Education:
 Sources, Measures, and Mitigation Strategies" at [NCME-AIMC](https://www.ncme-aime.org/){:target="_blank"}(National Council on Measurement in Education-AI in Measurement and Education) 
 
-**July 7th, 2023** Our workshop paper "Augmenting Holistic Review in University Admission using Natural Language Processing for Essays and Recommendation Letters" has been accepted at AIED Tokyo 2023!
+**July 7th, 2023** Our workshop paper "Augmenting Holistic Review in University Admission using Natural Language Processing for Essays and Recommendation Letters" has been accepted to AIED Tokyo 2023!
 
 ## Selected Publications
 
