@@ -16,7 +16,7 @@ mdb { color: MidnightBlue }
 <dgr>Journal Articles</dgr>\
 **Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text**\
 AJ Alvero, Alejandra Regla-Vargas, **Jinsook Lee**, Rene Kizilcec, Thorsten Joachnims, anthony lising antonio\
-*Journal of Big Data* (Under reivew)
+(Under reivew)
 
 **Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies**\
 **Jinsook Lee**, Yann Hicke, Emma Harvey, Renzhe Yu, Christopher Brooks and Rene Kizilcec
