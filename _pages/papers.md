@@ -13,13 +13,17 @@ mdb { color: MidnightBlue }
 </style>
 
 ## <mdb>Working Papers</mdb>
-<dgr>Journal Articles</dgr>\
+
+**Algorithms for College Admissions Decision Support: Impacts of Policy Change and Inherent Variability**\
+**Jinsook Lee**, Emma Harvey, Joyce Zhou, Nikhil Garg, Thorsten Joachims, Rene Kizilcec\
+(Under review)
+
 **Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text**\
-AJ Alvero, Alejandra Regla-Vargas, **Jinsook Lee**, Rene Kizilcec, Thorsten Joachims, anthony lising antonio\
+AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, Rene Kizilcec, Thorsten Joachims, anthony lising antonio\
 (Under reivew)
 
 **Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies**\
-**Jinsook Lee**, Yann Hicke, Emma Harvey, Renzhe Yu, Christopher Brooks, Rene Kizilcec
+**Jinsook Lee**, Yann Hicke, Renzhe Yu, Christopher Brooks, Rene Kizilcec
 
 **Assessing Representation of Identity Groups in Human-Generated and ChatGPT-Generated College Admission Essays**\
 **Jinsook Lee**, AJ Alvero, Thorsten Joachims, Rene Kizilcec
