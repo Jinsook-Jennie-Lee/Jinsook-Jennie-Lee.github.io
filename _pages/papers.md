@@ -1,4 +1,4 @@
----
+--
 layout: single
 author_profile: true
 title: Papers
@@ -22,8 +22,9 @@ mdb { color: MidnightBlue }
 AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, Rene Kizilcec, Thorsten Joachims, anthony lising antonio\
 (Under reivew)
 
-**Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies**\
-**Jinsook Lee**, Yann Hicke, Renzhe Yu, Christopher Brooks, Rene Kizilcec
+**The Life Cycle of Large Language Models: A Review of Biases in Education**\
+**Jinsook Lee**, Yann Hicke, Renzhe Yu, Christopher Brooks, Rene Kizilcec\
+(Under review)
 
 **Assessing Representation of Identity Groups in Human-Generated and ChatGPT-Generated College Admission Essays**\
 **Jinsook Lee**, AJ Alvero, Thorsten Joachims, Rene Kizilcec
@@ -31,7 +32,8 @@ AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, Rene Kizilcec, Thorsten Joac
 <dgr>Book Chapter</dgr>\
 **Artificial Communication and Media Realism in College Admissions**\
 Sebastian Munoz-Najar Galvez, **Jinsook Lee**, AJ Alvero, Sheridan Stewart, Rene Kizilcec, Amy Desiderio\
-*The Digitized Campus: Artificial Intelligence and Big Data in Higher Education*(forthcoming)
+*The Digitized Campus: Artificial Intelligence and Big Data in Higher Education*\
+(Forthcoming)
 
 ## <mdb>Conference Proceedings</mdb>
 ### <dgr>2023</dgr>
