@@ -1,9 +1,9 @@
---
+---
 layout: single
 author_profile: true
 title: Papers
 classes: wide
-permalink: https://jinsook-jennie-lee.github.io/publications/
+permalink: /papers/
 ---
 <style>
 r { color: Red }
