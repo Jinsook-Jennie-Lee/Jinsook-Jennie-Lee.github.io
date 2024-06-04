@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://jinsook-jennie-lee.github.io/
   - title: "Publications"
-    url: /_pages/papers/
+    url: /papers/
   - title: "CV"
     url: https://docs.google.com/document/d/e/2PACX-1vTEyuMtEgSW0tA5gLCRejKeGT3N_XWO2tzP8qvKF82jWg_JO2IMpbX7N4tMoxvLfA/pub
   # - title: "Sample Collections"
