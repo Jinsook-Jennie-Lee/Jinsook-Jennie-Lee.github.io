@@ -1,10 +1,11 @@
 ---
 layout: single
 author_profile: true
-title: Papers
+title: Publications
 classes: wide
 permalink: /papers/
 ---
+
 <style>
 r { color: Red }
 o { color: Orange }
