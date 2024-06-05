@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: Publications
+title: Papers
 classes: wide
 permalink: /papers/
 ---
