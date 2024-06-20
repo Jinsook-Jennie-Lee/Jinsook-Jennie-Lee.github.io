@@ -37,6 +37,7 @@ Sebastian Munoz-Najar Galvez, **Jinsook Lee**, AJ Alvero, Sheridan Stewart, Rene
 ### <dgr>2024</dgr>
 **The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias**\
 **Jinsook Lee**, Yann Hicke, Renzhe Yu, Christopher Brooks, Rene Kizilcec\
+*The British Journal of Educational Technology* (In press)
 
 ### <dgr>2021</dgr>
 [**Early Prediction Model of Student Performance Based on Deep Neural Network Using Massive LMS Log Data**](https://koreascience.kr/article/JAKO202131541825407.page){:target="_blank"}\
@@ -65,6 +66,7 @@ Doohyung Kim, Wooseok Shin, Kiwoong Han, **Jinsook Lee**, Kibum Moon, Sukang Lee
 
 ## <mdb>Others (Book chapter, white papers, etc)</mdb>
 ### <dgr>2023</dgr>
+[**Fairness Hub Technical Briefs: AUC Gap**](https://arxiv.org/pdf/2309.12371){:target="_blank"}\
 **Jinsook Lee**, Christopher Brooks, Renzhe Yu, and Rene Kizilcec
 
 [**Fairness Hub Technical Briefs: Overview of Bias Mitigation Strategies**](https://osf.io/jtb5n){:target="_blank"}\
