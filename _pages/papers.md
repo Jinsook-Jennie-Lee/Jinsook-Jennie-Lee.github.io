@@ -21,7 +21,7 @@ mdb { color: MidnightBlue }
 
 **Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text**\
 AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, Rene Kizilcec, Thorsten Joachims, anthony lising antonio\
-(Under reivew) [**preprint**](https://osf.io/preprints/socarxiv/qfx4a){:target="_blank"}\
+(Under reivew) [**[Preprint]**](https://osf.io/preprints/socarxiv/qfx4a){:target="_blank"}
 
 **The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias**\
 **Jinsook Lee**, Yann Hicke, Renzhe Yu, Christopher Brooks, Rene Kizilcec\
