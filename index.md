@@ -13,7 +13,7 @@ Prior to Cornell, I was a data scientist at Korea University to develop course a
 Outside of work, I have a love-hate relationship with tennis — As a member of the Cornell Korean Tennis Club, you'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening to music (64,681 minutes listened in 2023!) 
 
 ## News 
-**Jun 20th, 2024** Our review article "The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias" has been accepted to the Special Issue titled “Advancing Equity and Inclusion in Educational Practices with AI-Powered Educational Decision Support Systems (AI-EDSS)” in the *British Journal of Educational Technology*. 
+**Jun 20th, 2024** Our review article "The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias" has been accepted to the *British Journal of Educational Technology*. 
 
 **Apr 3rd, 2024** Our project "Evaluating the Impact of Different Application Ranking Policies on College Admission Outcomes" has been awarded a grant from the Cornell Center for Social Sciences
 
@@ -32,7 +32,7 @@ Sources, Measures, and Mitigation Strategies" at [NCME-AIMC](https://www.ncme-ai
 ## Selected Publications
 **The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias**\
 **Jinsook Lee**, Yann Hicke, Renzhe Yu, Chris Brooks, Rene Kizilcec\
-*The British Journal of Educational Technology* (In press)
+*British Journal of Educational Technology (BJET)* (In press)
 
 [**Augmenting Holistic Review in University Admission using Natural Language Processing for Essays and Recommendation Letters**](https://arxiv.org/pdf/2306.17575.pdf){:target="_blank"}\
 **Jinsook Lee**, Bradon Thymes, Joyce Zhou, Thorsten Joachims, and Rene Kizilcec\
