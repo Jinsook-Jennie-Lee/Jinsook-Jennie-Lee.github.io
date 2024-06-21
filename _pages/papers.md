@@ -17,7 +17,7 @@ mdb { color: MidnightBlue }
 
 **Algorithms for College Admissions Decision Support: Impacts of Policy Change and Inherent Variability**\
 **Jinsook Lee**, Emma Harvey, Joyce Zhou, Nikhil Garg, Thorsten Joachims, Rene Kizilcec\
-(Under review)
+(Under review) [**[Preprint]**](https://osf.io/preprints/socarxiv/hds5g){:target="_blank"}
 
 **Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text**\
 AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, Rene Kizilcec, Thorsten Joachims, anthony lising antonio\
