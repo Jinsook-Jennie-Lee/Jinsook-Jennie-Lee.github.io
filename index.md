@@ -10,7 +10,7 @@ I'm a Ph.D. student in Information Science at Cornell University, under the guid
 
 Prior to Cornell, I was a data scientist at Korea University to develop course and major recommendation systems for college students. I received my BA in Education, and Fashion Design & Merchandising from Korea University, MS in Fashion Marketing from the same institution. 
 
-Outside of work, I have a love-hate relationship with tennis — As a member of the Cornell Korean Tennis Club, you'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening to music (64,681 minutes listened in 2023!) 
+Outside of work, I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening to music (64,681 minutes listened in 2023!) 
 
 ## News 
 **Jun 20th, 2024** Our review article "The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias" has been accepted to the *British Journal of Educational Technology*. 
@@ -34,13 +34,13 @@ Sources, Measures, and Mitigation Strategies" at [NCME-AIMC](https://www.ncme-ai
 **Jinsook Lee**, Yann Hicke, Renzhe Yu, Chris Brooks, Rene Kizilcec\
 *British Journal of Educational Technology (BJET)* (In press)
 
+[**Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text**](https://osf.io/preprints/socarxiv/qfx4a){:target="_blank"}\
+AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, René Kizilcec, Thorsten Joachims, and anthony lising antonio\
+*Journal of Big Data* (In press)
+
 [**Augmenting Holistic Review in University Admission using Natural Language Processing for Essays and Recommendation Letters**](https://arxiv.org/pdf/2306.17575.pdf){:target="_blank"}\
 **Jinsook Lee**, Bradon Thymes, Joyce Zhou, Thorsten Joachims, and Rene Kizilcec\
 *EDI in EdTech R&D workshop at Artificial Intelligence in Education: 24th International Conference (AIED '23)*
-
-[**Early Prediction Model of Student Performance Based on Deep Neural Network Using Massive LMS Log Data**](https://koreascience.kr/article/JAKO202131541825407.page){:target="_blank"}\
-Kibum Moon, Jinwon Kim, and **Jinsook Lee**\
-*The Journal of the Korea Contents Association, 21(10), 1-10*
 
 [**Development and Application of an AI-Powered Adaptive Course Recommender System in Higher Education: An Example From K University**](https://www.researchgate.net/publication/352876624_Development_and_Application_of_an_AI-Powered_Adaptive_Course_Recommender_System_in_Higher_Education_An_Example_from_K_University){:target="_blank"}\
 **Jinsook Lee**, Kibum Moon, Suyeon Han, Sukang Lee, Hyejung Kwon, Jaeho Han and Gyutae Kim\
