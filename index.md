@@ -35,7 +35,7 @@ Sources, Measures, and Mitigation Strategies" at [NCME-AIMC](https://www.ncme-ai
 *British Journal of Educational Technology (BJET)* (In press)
 
 [**Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text**](https://osf.io/preprints/socarxiv/qfx4a){:target="_blank"}\
-AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, René Kizilcec, Thorsten Joachims, and anthony lising antonio\
+AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, René Kizilcec, Thorsten Joachims, anthony lising antonio\
 *Journal of Big Data* (In press)
 
 [**Augmenting Holistic Review in University Admission using Natural Language Processing for Essays and Recommendation Letters**](https://arxiv.org/pdf/2306.17575.pdf){:target="_blank"}\
@@ -45,3 +45,7 @@ AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, René Kizilcec, Thorsten Joa
 [**Development and Application of an AI-Powered Adaptive Course Recommender System in Higher Education: An Example From K University**](https://www.researchgate.net/publication/352876624_Development_and_Application_of_an_AI-Powered_Adaptive_Course_Recommender_System_in_Higher_Education_An_Example_from_K_University){:target="_blank"}\
 **Jinsook Lee**, Kibum Moon, Suyeon Han, Sukang Lee, Hyejung Kwon, Jaeho Han and Gyutae Kim\
 *Journal of Educational Technology, 37(2), 267-307*
+
+## Teaching Experiences
+**TA**
+FA22/SP24 INFO 4100/5101: Learning Analytics
