@@ -30,7 +30,7 @@ Sources, Measures, and Mitigation Strategies" at [NCME-AIMC](https://www.ncme-ai
 **July 7th, 2023** Our workshop paper "Augmenting Holistic Review in University Admission using Natural Language Processing for Essays and Recommendation Letters" has been accepted to AIED Tokyo 2023!
 
 ## Selected Publications
-**The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias**\
+[**The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias**](https://bera-journals.onlinelibrary.wiley.com/doi/epdf/10.1111/bjet.13505?domain=author&token=GYAQDDMYPJMHC3GGPDQ3){:target="_blank"}\
 **Jinsook Lee**, Yann Hicke, Renzhe Yu, Chris Brooks, Rene Kizilcec\
 *British Journal of Educational Technology (BJET)* (In press)
 
