@@ -35,9 +35,9 @@ Sebastian Munoz-Najar Galvez, **Jinsook Lee**, AJ Alvero, Sheridan Stewart, Rene
 
 ## <mdb>Journal Articles</mdb>
 ### <dgr>2024</dgr>
-**The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias**\
+[**The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias**](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13505){:target="_blank"})\
 **Jinsook Lee**, Yann Hicke, Renzhe Yu, Christopher Brooks, Rene Kizilcec\
-*The British Journal of Educational Technology* (In press)
+*The British Journal of Educational Technology (BJET)* 
 
 ### <dgr>2021</dgr>
 [**Early Prediction Model of Student Performance Based on Deep Neural Network Using Massive LMS Log Data**](https://koreascience.kr/article/JAKO202131541825407.page){:target="_blank"}\
