@@ -16,19 +16,19 @@ mdb { color: MidnightBlue }
 ## <mdb>Working Papers</mdb>
 
 **Algorithms for College Admissions Decision Support: Impacts of Policy Change and Inherent Variability**\
-**Jinsook Lee**, Emma Harvey, Joyce Zhou, Nikhil Garg, Thorsten Joachims, Rene Kizilcec\
-(Under review) [**[Preprint]**](https://osf.io/preprints/socarxiv/hds5g){:target="_blank"}
+**Jinsook Lee**, Emma Harvey, Joyce Zhou, Nikhil Garg, Thorsten Joachims, René F. Kizilcec\
+(Under review) [**[arxiv]**](https://arxiv.org/abs/2407.11199){:target="_blank"}
 
 **Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text**\
-AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, Rene Kizilcec, Thorsten Joachims, anthony lising antonio\
-(Under reivew) [**[Preprint]**](https://osf.io/preprints/socarxiv/qfx4a){:target="_blank"}
+AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, René F. Kizilcec, Thorsten Joachims, anthony lising antonio\
+Journal of Big Data (In press) [**[preprint]**](https://osf.io/preprints/socarxiv/qfx4a){:target="_blank"}
 
 **Assessing Representation of Identity Groups in Human-Generated and ChatGPT-Generated College Admission Essays**\
-**Jinsook Lee**, AJ Alvero, Thorsten Joachims, Rene Kizilcec
+**Jinsook Lee**, AJ Alvero, Thorsten Joachims, René F. Kizilcec
 
 <dgr>Book Chapter</dgr>\
 **Artificial Communication and Media Realism in College Admissions**\
-Sebastian Munoz-Najar Galvez, **Jinsook Lee**, AJ Alvero, Sheridan Stewart, Rene Kizilcec, Amy Desiderio\
+Sebastian Munoz-Najar Galvez, **Jinsook Lee**, AJ Alvero, Sheridan Stewart, René F. Kizilcec, Amy Desiderio\
 *The Digitized Campus: Artificial Intelligence and Big Data in Higher Education*\
 (Forthcoming)
 
@@ -36,7 +36,7 @@ Sebastian Munoz-Najar Galvez, **Jinsook Lee**, AJ Alvero, Sheridan Stewart, Rene
 ## <mdb>Journal Articles</mdb>
 ### <dgr>2024</dgr>
 [**The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias**](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13505){:target="_blank"})\
-**Jinsook Lee**, Yann Hicke, Renzhe Yu, Christopher Brooks, Rene Kizilcec\
+**Jinsook Lee**, Yann Hicke, Renzhe Yu, Christopher Brooks, René F. Kizilcec\
 *The British Journal of Educational Technology (BJET)* 
 
 ### <dgr>2021</dgr>
@@ -56,7 +56,7 @@ Kibum Moon, Jinwon Kim, **Jinsook Lee**\
 ## <mdb>Conference Proceedings</mdb>
 ### <dgr>2023</dgr>
 [**Augmenting Holistic Review in University Admission using Natural Language Processing for Essays and Recommendation Letters**](https://arxiv.org/pdf/2306.17575.pdf){:target="_blank"}\
-**Jinsook Lee**, Bradon Thymes, Joyce Zhou, Thorsten Joachims, Rene Kizilcec\
+**Jinsook Lee**, Bradon Thymes, Joyce Zhou, Thorsten Joachims, René F. Kizilcec\
 *EDI in EdTech R&D workshop at Artificial Intelligence in Education: 24th International Conference (AIED '23)*
 
 ### <dgr>2020</dgr>
@@ -67,8 +67,8 @@ Doohyung Kim, Wooseok Shin, Kiwoong Han, **Jinsook Lee**, Kibum Moon, Sukang Lee
 ## <mdb>Others (Book chapter, white papers, etc)</mdb>
 ### <dgr>2023</dgr>
 [**Fairness Hub Technical Briefs: AUC Gap**](https://arxiv.org/pdf/2309.12371){:target="_blank"}\
-**Jinsook Lee**, Christopher Brooks, Renzhe Yu, and Rene Kizilcec
+**Jinsook Lee**, Christopher Brooks, Renzhe Yu, and René F. Kizilcec
 
 [**Fairness Hub Technical Briefs: Overview of Bias Mitigation Strategies**](https://osf.io/jtb5n){:target="_blank"}\
-**Jinsook Lee**, Christopher Brooks, Renzhe Yu, and Rene Kizilcec
+**Jinsook Lee**, Christopher Brooks, Renzhe Yu, and René F. Kizilcec
 
