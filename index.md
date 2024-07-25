@@ -13,7 +13,7 @@ Prior to Cornell, I spent several years as a data scientist at Korea University 
 Outside of work, I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening and curating music!
 
 ## News
-** July 23rd, 2024** Our paper "Algorithms for College Admissions Decision Support: Impacts of Policy Change and Inherent Variability" has been accepted to the EAAMO'24 (the 4th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization). See you in San Luis Potosí, Mexico!
+**July 23rd, 2024** Our paper "Algorithms for College Admissions Decision Support: Impacts of Policy Change and Inherent Variability" has been accepted to the EAAMO'24 (the 4th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization). See you in San Luis Potosí, Mexico!
  
 **Jun 20th, 2024** Our review article "The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias" has been accepted to the *British Journal of Educational Technology*. 
 
@@ -34,7 +34,7 @@ Sources, Measures, and Mitigation Strategies" at [NCME-AIMC](https://www.ncme-ai
 ## Selected Publications
 
 [**Algorithms for College Admissions Decision Support: Impacts of Policy Change and Inherent Variability**](https://arxiv.org/abs/2407.11199){:target="_blank"}\
-**Jinsook Lee**, Emma Harvey*, Joyce Zhou, Nikhil Garg, Thorsten Joachims, René F. Kizilcec\
+**Jinsook Lee**, Emma Harvey, Joyce Zhou, Nikhil Garg, Thorsten Joachims, René F. Kizilcec\
 *The 4th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO '24)* (In press)
 
 [**The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias**](https://bera-journals.onlinelibrary.wiley.com/doi/epdf/10.1111/bjet.13505?domain=author&token=GYAQDDMYPJMHC3GGPDQ3){:target="_blank"}\
@@ -52,8 +52,6 @@ AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, René F. Kizilcec, Thorsten 
 [**Development and Application of an AI-Powered Adaptive Course Recommender System in Higher Education: An Example From K University**](https://www.researchgate.net/publication/352876624_Development_and_Application_of_an_AI-Powered_Adaptive_Course_Recommender_System_in_Higher_Education_An_Example_from_K_University){:target="_blank"}\
 **Jinsook Lee**, Kibum Moon, Suyeon Han, Sukang Lee, Hyejung Kwon, Jaeho Han and Gyutae Kim\
 *Journal of Educational Technology, 37(2), 267-307*
-
-* : Equal contribution
 
 ## Teaching Experiences
 **TA**
