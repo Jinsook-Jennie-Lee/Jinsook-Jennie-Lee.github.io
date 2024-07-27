@@ -13,11 +13,11 @@ Prior to Cornell, I spent several years as a data scientist at Korea University 
 Outside of work, I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening and curating music!
 
 ## News
-**July 23rd, 2024** Our paper "Algorithms for College Admissions Decision Support: Impacts of Policy Change and Inherent Variability" has been accepted to the EAAMO'24 (the 4th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization). See you in San Luis Potosí, Mexico!
+**July 23rd, 2024** Our paper "Algorithms for College Admissions Decision Support: Impacts of Policy Change and Inherent Variability" has been accepted to [EAAMO'24](https://conference.eaamo.org/){:target="_blank"} See you in San Luis Potosí, Mexico!
  
 **Jun 20th, 2024** Our review article "The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias" has been accepted to the *British Journal of Educational Technology*. 
 
-**Apr 3rd, 2024** Our project "Evaluating the Impact of Different Application Ranking Policies on College Admission Outcomes" has been awarded a grant from the Cornell Center for Social Sciences
+**Apr 3rd, 2024** Our project "Evaluating the Impact of Different Application Ranking Policies on College Admission Outcomes" has been awarded a grant from the Cornell Center for Social Sciences! ($12,000)
 
 **Jan 9th, 2024** Our work "Comparing Authorship in Human and Synthetic Text" has been accepted to Generative AI and Sociology workshop at Yale University! 
 
