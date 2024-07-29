@@ -34,7 +34,7 @@ Sources, Measures, and Mitigation Strategies" at [NCME-AIMC](https://www.ncme-ai
 ## Selected Publications
 
 [**Algorithms for College Admissions Decision Support: Impacts of Policy Change and Inherent Variability**](https://arxiv.org/abs/2407.11199){:target="_blank"}\
-**Jinsook Lee**, Emma Harvey, Joyce Zhou, Nikhil Garg, Thorsten Joachims, René F. Kizilcec\
+**Jinsook Lee**\*, Emma Harvey\*, Joyce Zhou, Nikhil Garg, Thorsten Joachims, René F. Kizilcec\
 *The 4th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO '24)* (In press)
 
 [**The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias**](https://bera-journals.onlinelibrary.wiley.com/doi/epdf/10.1111/bjet.13505?domain=author&token=GYAQDDMYPJMHC3GGPDQ3){:target="_blank"}\
