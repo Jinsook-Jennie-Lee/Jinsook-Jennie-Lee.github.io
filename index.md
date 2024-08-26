@@ -13,9 +13,11 @@ Prior to Cornell, I spent several years as a data scientist at Korea University 
 Outside of work, I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening and curating music!
 
 ## News
-**July 23rd, 2024** Our paper "Algorithms for College Admissions Decision Support: Impacts of Policy Change and Inherent Variability" has been accepted to [EAAMO'24](https://conference.eaamo.org/){:target="_blank"} See you in San Luis Potosí, Mexico!
+**Aug 26th, 2024** "Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text" has been accepted for publication in *Journal of Big Data* 
+
+**July 23rd, 2024** "Ending Affirmative Action Harms Diversity Without Improving Academic Merit" has been accepted to [EAAMO'24](https://conference.eaamo.org/){:target="_blank"} See you in San Luis Potosí, Mexico!
  
-**Jun 20th, 2024** Our review article "The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias" has been accepted to the *British Journal of Educational Technology*. 
+**Jun 20th, 2024** "The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias" has been accepted to the *British Journal of Educational Technology*. 
 
 **Apr 3rd, 2024** Our project "Evaluating the Impact of Different Application Ranking Policies on College Admission Outcomes" has been awarded a grant from the Cornell Center for Social Sciences! ($12,000)
 
@@ -33,7 +35,7 @@ Sources, Measures, and Mitigation Strategies" at [NCME-AIMC](https://www.ncme-ai
 
 ## Selected Publications
 
-[**Algorithms for College Admissions Decision Support: Impacts of Policy Change and Inherent Variability**](https://arxiv.org/abs/2407.11199){:target="_blank"}\
+[**Ending Affirmative Action Harms Diversity Without Improving Academic Merit**](https://arxiv.org/abs/2407.11199){:target="_blank"}\
 **Jinsook Lee**\*, Emma Harvey\*, Joyce Zhou, Nikhil Garg, Thorsten Joachims, René F. Kizilcec\
 *The 4th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO '24)* (In press)
 
@@ -43,7 +45,7 @@ Sources, Measures, and Mitigation Strategies" at [NCME-AIMC](https://www.ncme-ai
 
 [**Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text**](https://osf.io/preprints/socarxiv/qfx4a){:target="_blank"}\
 AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, René F. Kizilcec, Thorsten Joachims, anthony lising antonio\
-*Journal of Big Data* (In press)
+*Journal of Big Data*
 
 [**Augmenting Holistic Review in University Admission using Natural Language Processing for Essays and Recommendation Letters**](https://arxiv.org/pdf/2306.17575.pdf){:target="_blank"}\
 **Jinsook Lee**, Bradon Thymes, Joyce Zhou, Thorsten Joachims, and René F. Kizilcec\
