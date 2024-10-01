@@ -43,7 +43,7 @@ Sources, Measures, and Mitigation Strategies" at [NCME-AIMC](https://www.ncme-ai
 **Jinsook Lee**, Yann Hicke, Renzhe Yu, Chris Brooks, René F. Kizilcec\
 *British Journal of Educational Technology (BJET)*
 
-[**Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text**](https://osf.io/preprints/socarxiv/qfx4a){:target="_blank"}\
+[**Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text**](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-024-00986-7){:target="_blank"}\
 AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, René F. Kizilcec, Thorsten Joachims, anthony lising antonio\
 *Journal of Big Data*
 
