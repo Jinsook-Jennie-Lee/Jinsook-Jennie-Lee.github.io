@@ -15,15 +15,15 @@ mdb { color: MidnightBlue }
 
 ## <mdb>Working Papers</mdb>
 
-**Assessing Representation of Identity Groups in Human-Generated and ChatGPT-Generated College Admission Essays**\
+**Alignment and Controllability of Large Language Models in College Admissions**\
 **Jinsook Lee**, AJ Alvero, Thorsten Joachims, René F. Kizilcec
 
 ## <mdb>Journal Articles</mdb>
-*(In press)* [**Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text**](https://osf.io/preprints/socarxiv/qfx4a){:target="_blank"}\
+### <dgr>2024</dgr>
+[**Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text**](https://osf.io/preprints/socarxiv/qfx4a){:target="_blank"}\
 AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, René F. Kizilcec, Thorsten Joachims, anthony lising antonio\
 *Journal of Big Data* 
 
-### <dgr>2024</dgr>
 [**The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias**](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13505){:target="_blank"}\
 **Jinsook Lee**, Yann Hicke, Renzhe Yu, Christopher Brooks, René F. Kizilcec\
 *The British Journal of Educational Technology (BJET)* 
@@ -43,7 +43,7 @@ Kibum Moon, Jinwon Kim, **Jinsook Lee**\
 *Journal of the Korean Society of Clothing and Textiles, 43(1), 138-153*
 
 ## <mdb>Conference Proceedings</mdb>
-\* : co-first authorship
+\* : equal contribution
 
 ### <dgr>2024</dgr>
 [**Algorithms for College Admissions Decision Support: Impacts of Policy Change and Inherent Variability**](https://arxiv.org/abs/2407.11199){:target="_blank"}\
@@ -62,7 +62,8 @@ Doohyung Kim, Wooseok Shin, Kiwoong Han, **Jinsook Lee**, Kibum Moon, Sukang Lee
 
 ## <mdb>Others (Book chapter, white papers, etc)</mdb>
 
-*(Forth coming)* Artificial Communication and Media Realism in College Admissions
+### <dgr>2024</dgr>
+Artificial Communication and Media Realism in College Admissions
 Sebastian Munoz-Najar Galvez, **Jinsook Lee**, AJ Alvero, Sheridan Stewart, René F. Kizilcec, Amy Desiderio
 *The Digitized Campus: Artificial Intelligence and Big Data in Higher Education*
 
