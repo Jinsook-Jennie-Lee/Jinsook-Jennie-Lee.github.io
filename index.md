@@ -59,5 +59,5 @@ AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, René F. Kizilcec, Thorsten 
 
 ## Teaching Experiences
 **TA**
-FA22/SP24 INFO4100/5101: Learning Analytics | Instructor: Prof. René F. Kizilcec
+FA22/SP24 INFO4100/5101: Learning Analytics | Instructor: Prof. René F. Kizilcec\
 FA24 INFO/STS 4240/5240: Designing Technologies for Social Impact (DTSI) | Instructor: Prof. Chris Csíkszentmihályi 
