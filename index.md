@@ -6,7 +6,7 @@ classes: wide
 permalink: /
 ---
 
-I'm a Ph.D. student in Information Science at Cornell University, under the guidance of [René F. Kizilcec](https://rene.kizilcec.com){:target="_blank"} in the [Future of Learning Lab](https://learning.cis.cornell.edu/){:target="_blank"}. My research sits at the intersection of education, data science, and algorithmic fairness, with a focus on designing equitable education systems and supporting high-stakes decision-making processes in education. At Cornell, I have studied diverse topics in college admissions, particularly examining how policy changes might affect educational opportunity allocation, how identity representation differs between human and AI-generated college essays, and targeting strategies to enhance the diversity of applicant pools.
+I'm a Ph.D. student in Information Science at Cornell University, under the guidance of [René F. Kizilcec](https://rene.kizilcec.com){:target="_blank"} in the [Future of Learning Lab](https://learning.cis.cornell.edu/){:target="_blank"}. My research sits at the intersection of education, data science, and algorithmic fairness, with a focus on designing equitable education systems and supporting high-stakes decision-making processes in education. At Cornell, I have studied diverse topics in college admissions, particularly examining how policy changes might affect allocating educational opportunities, how identity representation differs between human and AI-generated college application essays, and uncertainty/arbitrariness of algorithms in predicting admissions outcomes.
 
 I'm also fortunate to collaborate with [Thorsten Joachims](https://www.cs.cornell.edu/people/tj){:target="_blank"}, [Nikhil Garg](https://gargnikhil.com){:target="_blank"} and [AJ Alvero](https://ajalvero.com){:target="_blank"}.  
 
@@ -37,9 +37,9 @@ Sources, Measures, and Mitigation Strategies" at [NCME-AIMC](https://www.ncme-ai
 
 ## Selected Publications
 
-[**Ending Affirmative Action Harms Diversity Without Improving Academic Merit**](https://arxiv.org/abs/2407.11199){:target="_blank"}\
+[**Ending Affirmative Action Harms Diversity Without Improving Academic Merit**](https://dl.acm.org/doi/abs/10.1145/3689904.3694706){:target="_blank"}\
 **Jinsook Lee**\*, Emma Harvey\*, Joyce Zhou, Nikhil Garg, Thorsten Joachims, René F. Kizilcec\
-*The 4th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO '24)* (In press)
+*The 4th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO '24)*
 
 [**The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias**](https://bera-journals.onlinelibrary.wiley.com/doi/epdf/10.1111/bjet.13505?domain=author&token=GYAQDDMYPJMHC3GGPDQ3){:target="_blank"}\
 **Jinsook Lee**, Yann Hicke, Renzhe Yu, Chris Brooks, René F. Kizilcec\
@@ -60,3 +60,4 @@ AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, René F. Kizilcec, Thorsten 
 ## Teaching Experiences
 **TA**
 FA22/SP24 INFO4100/5101: Learning Analytics | Instructor: Prof. René F. Kizilcec
+FA24 INFO/STS 4240/5240: Designing Technologies for Social Impact (DTSI) | Instructor: Prof. Chris Csíkszentmihályi 
