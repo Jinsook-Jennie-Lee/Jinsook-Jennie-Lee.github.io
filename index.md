@@ -6,13 +6,11 @@ classes: wide
 permalink: /
 ---
 
-I'm a Ph.D. student in Information Science at Cornell University, under the guidance of [René F. Kizilcec](https://rene.kizilcec.com){:target="_blank"} in the [Future of Learning Lab](https://learning.cis.cornell.edu/){:target="_blank"}. My research sits at the intersection of education, data science, and algorithmic fairness, with a focus on designing equitable education systems and supporting high-stakes decision-making processes in education. At Cornell, I have studied diverse topics in college admissions, particularly examining how policy changes might affect allocating educational opportunities, how identity representation differs between human and AI-generated college application essays, and uncertainty/arbitrariness of algorithms in predicting admissions outcomes.
+I'm a Ph.D. student in Information Science at Cornell University under the guidance of [René F. Kizilcec](https://rene.kizilcec.com){:target="_blank"} in the [Future of Learning Lab](https://learning.cis.cornell.edu/){:target="_blank"}. My research sits at the intersection of education, data science, and algorithmic fairness. I am interested in AI evaluation for equitable education systems especially in high-stakes decision-making processes. At Cornell, I have studied diverse topics in college admissions, particularly examining how policy changes would affect allocating educational opportunities, how identity representation differs between human and AI-generated college application essays, and uncertainty/arbitrariness of algorithms in predicting admissions outcomes.
 
 I'm also fortunate to collaborate with [Thorsten Joachims](https://www.cs.cornell.edu/people/tj){:target="_blank"}, [Nikhil Garg](https://gargnikhil.com){:target="_blank"} and [AJ Alvero](https://ajalvero.com){:target="_blank"}.  
 
-Prior to Cornell, I spent several years as a data scientist at Korea University to develope course and major recommender systems to support college students' decision making process. I received my MS in Fashion Marketing from Korea University and BAs in Education and Fashion Design & Merchandising from the same university.
- 
-Outside of work, I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening and curating music!
+Prior to Cornell, I spent several years as a data scientist at Korea University to develop course and major recommender systems to support college students' decision making process. Outside of work, I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening and curating music!
 
 ## News
 **Aug 26th, 2024** "Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text" has been accepted for publication in *Journal of Big Data* 
