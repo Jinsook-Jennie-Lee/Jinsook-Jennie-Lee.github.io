@@ -60,11 +60,11 @@ Kibum Moon, Jinwon Kim, **Jinsook Lee**\
 Doohyung Kim, Wooseok Shin, Kiwoong Han, **Jinsook Lee**, Kibum Moon, Sukang Lee, Suyeon Han, Hyejung Kwon, Seongwon Han\
 *Fall 2020 Conference of Korean Institute of Industrial Engineers*
 
-## <mdb>Others (Book chapter, white papers, etc)</mdb>
+## <mdb>Others</mdb>
 
 ### <dgr>2024</dgr>
-Artificial Communication and Media Realism in College Admissions
-Sebastian Munoz-Najar Galvez, **Jinsook Lee**, AJ Alvero, Sheridan Stewart, René F. Kizilcec, Amy Desiderio
+Artificial Communication and Media Realism in College Admissions\
+Sebastian Munoz-Najar Galvez, **Jinsook Lee**, AJ Alvero, Sheridan Stewart, René F. Kizilcec, Amy Desiderio\
 *The Digitized Campus: Artificial Intelligence and Big Data in Higher Education*
 
 
