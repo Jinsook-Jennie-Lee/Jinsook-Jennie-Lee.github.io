@@ -12,14 +12,14 @@ r { color: Red }
 o { color: Orange }
 dgr { color: DimGrey }
 mdb { color: MidnightBlue }
-paper { border-bottom: 1px solid #000 }
+.paper { border-bottom: 1px solid #000 }
 </style>
 
 ## <mdb>Working Papers</mdb>
-<paper>
+<div class="paper">
 **Alignment and Controllability of Large Language Models in College Admissions**\
 **Jinsook Lee**, AJ Alvero, Thorsten Joachims, René F. Kizilcec
-</paper>
+</div>
 
 ## <mdb>Journal Articles</mdb>
 ### <dgr>2024</dgr>
