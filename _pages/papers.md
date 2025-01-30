@@ -17,8 +17,10 @@ mdb { color: MidnightBlue }
 
 ## <mdb>Working Papers</mdb>
 <div class="paper">
+
 **Alignment and Controllability of Large Language Models in College Admissions**\
 **Jinsook Lee**, AJ Alvero, Thorsten Joachims, René F. Kizilcec
+
 </div>
 
 ## <mdb>Journal Articles</mdb>
@@ -26,6 +28,8 @@ mdb { color: MidnightBlue }
 [**Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text**](https://osf.io/preprints/socarxiv/qfx4a){:target="_blank"}\
 AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, René F. Kizilcec, Thorsten Joachims, anthony lising antonio\
 *Journal of Big Data* 
+
+---
 
 [**The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias**](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13505){:target="_blank"}\
 **Jinsook Lee**, Yann Hicke, Renzhe Yu, Christopher Brooks, René F. Kizilcec\
