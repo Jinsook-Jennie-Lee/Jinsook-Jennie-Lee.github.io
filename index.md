@@ -10,7 +10,9 @@ I'm a Ph.D. student in Information Science at Cornell University under the guida
 
 I'm also fortunate to collaborate with [Thorsten Joachims](https://www.cs.cornell.edu/people/tj){:target="_blank"}, [Nikhil Garg](https://gargnikhil.com){:target="_blank"} and [AJ Alvero](https://ajalvero.com){:target="_blank"}.  
 
-Prior to Cornell, I spent several years as a data scientist at Korea University to develop course and major recommender systems to support college students' decision making process. Outside of work, I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening and curating music!
+Prior to Cornell, I spent several years as a data scientist at Korea University to develop course and major recommender systems to support college students' decision making process.
+
+I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening and curating music!
 
 ## News
 **Aug 26th, 2024** "Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text" has been accepted for publication in *Journal of Big Data* 
@@ -55,7 +57,13 @@ AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, René F. Kizilcec, Thorsten 
 **Jinsook Lee**, Kibum Moon, Suyeon Han, Sukang Lee, Hyejung Kwon, Jaeho Han and Gyutae Kim\
 *Journal of Educational Technology, 37(2), 267-307*
 
+## Academic Services
+**Reviewer**\
+ACM Conference on Fairness, Accountability, and Transparency (FAccT’25)\
+International Journal of Artificial Intelligence in Education (IJAIED)
+
+
 ## Teaching Experiences
 **TA**\
-FA22;SP24 INFO4100/5101: Learning Analytics | Instructor: Prof. René F. Kizilcec\
-FA24 INFO/STS 4240/5240: Designing Technologies for Social Impact (DTSI) | Instructor: Prof. Chris Csíkszentmihályi 
+SP25;SP24;FA22 INFO4100/5101: Learning Analytics | Instructor: Prof. René F. Kizilcec\
+FA24 INFO/STS 4240/5240: Designing Technologies for Social Impact | Instructor: Prof. Chris Csíkszentmihályi 

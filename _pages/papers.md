@@ -67,7 +67,6 @@ Artificial Communication and Media Realism in College Admissions\
 Sebastian Munoz-Najar Galvez, **Jinsook Lee**, AJ Alvero, Sheridan Stewart, René F. Kizilcec, Amy Desiderio\
 *The Digitized Campus: Artificial Intelligence and Big Data in Higher Education*
 
-
 ### <dgr>2023</dgr>
 [**Fairness Hub Technical Briefs: AUC Gap**](https://arxiv.org/pdf/2309.12371){:target="_blank"}\
 **Jinsook Lee**, Christopher Brooks, Renzhe Yu, and René F. Kizilcec
