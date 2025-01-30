@@ -7,19 +7,19 @@ permalink: /papers/
 ---
 
 <style>
+body { font-size: 1em; }
 r { color: Red }
 o { color: Orange }
 dgr { color: DimGrey }
 mdb { color: MidnightBlue }
-line { border-bottom: 1px solid #000 }
+paper { border-bottom: 1px solid #000 }
 </style>
 
 ## <mdb>Working Papers</mdb>
-
+<paper>
 **Alignment and Controllability of Large Language Models in College Admissions**\
 **Jinsook Lee**, AJ Alvero, Thorsten Joachims, René F. Kizilcec
-<line />
-
+</paper>
 
 ## <mdb>Journal Articles</mdb>
 ### <dgr>2024</dgr>
