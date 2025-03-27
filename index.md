@@ -15,6 +15,8 @@ Prior to Cornell, I spent several years as a data scientist at Korea University 
 I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening and curating music!
 
 ## News
+**Mar 26th, 2025** New paper out! [Poor Alignment and Steerability of Large Language Models: Evidence from College Admission Essays](https://arxiv.org/abs/2503.20062){:target="_blank"}
+
 **Aug 26th, 2024** "Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text" has been accepted for publication in *Journal of Big Data* 
 
 **July 23rd, 2024** "Ending Affirmative Action Harms Diversity Without Improving Academic Merit" has been accepted to [EAAMO'24](https://conference.eaamo.org/){:target="_blank"} See you in San Luis Potosí, Mexico!
