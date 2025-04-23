@@ -15,27 +15,29 @@ Prior to Cornell, I spent several years as a data scientist at Korea University 
 I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening to music and curating songs!
 
 ## News
-**Mar 26th, 2025** New paper is out! [Poor Alignment and Steerability of Large Language Models: Evidence from College Admission Essays](https://arxiv.org/abs/2503.20062){:target="_blank"}
-
-**Aug 26th, 2024** "Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text" has been accepted for publication in *Journal of Big Data* 
-
-**July 23rd, 2024** "Ending Affirmative Action Harms Diversity Without Improving Academic Merit" has been accepted to [EAAMO'24](https://conference.eaamo.org/){:target="_blank"} See you in San Luis Potosí, Mexico!
+**Apr, 2025** Relocating to NYC this summer! Excited to be a [PiTech Fellow](https://www.pi.tech.cornell.edu/pitech-phd-impact-fellowship)
  
-**Jun 20th, 2024** "The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias" has been accepted to the *British Journal of Educational Technology*. 
+**Mar, 2025** New paper is out! [Poor Alignment and Steerability of Large Language Models: Evidence from College Admission Essays](https://arxiv.org/abs/2503.20062){:target="_blank"}
 
-**Apr 3rd, 2024** Our project "Evaluating the Impact of Different Application Ranking Policies on College Admission Outcomes" has been awarded a grant from the Cornell Center for Social Sciences! ($12,000)
+**Aug, 2024** "Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text" has been accepted for publication in *Journal of Big Data* 
 
-**Jan 9th, 2024** Our work "Comparing Authorship in Human and Synthetic Text" has been accepted to Generative AI and Sociology workshop at Yale University! 
+**Jul, 2024** "Ending Affirmative Action Harms Diversity Without Improving Academic Merit" has been accepted to [EAAMO'24](https://conference.eaamo.org/){:target="_blank"} See you in San Luis Potosí, Mexico!
+ 
+**Jun, 2024** "The Life Cycle of Large Language Models in Education: A Framework for Understanding Sources of Bias" has been accepted to the *British Journal of Educational Technology*. 
 
-**Dec 22nd, 2023** Our workshop paper "When Bias Meets Personalization: Challenges and
+**Apr, 2024** Our project "Evaluating the Impact of Different Application Ranking Policies on College Admission Outcomes" has been awarded a grant from the Cornell Center for Social Sciences! ($12,000)
+
+**Jan, 2024** Our work "Comparing Authorship in Human and Synthetic Text" has been accepted to Generative AI and Sociology workshop at Yale University! 
+
+**Dec, 2023** Our workshop paper "When Bias Meets Personalization: Challenges and
 Perspectives in LLM-Based Educational Technology" has been accepted to [LAK24](https://www.solaresearch.org/events/lak/lak24/){:target="_blank"}!
 
-**Dec 7th, 2023** Our proposal "Application Essays and Characters in Higher Education Admissions" has been accepted to [NCME 2024](https://www.ncme.org/home){:target="_blank"}!
+**Dec, 2023** Our proposal "Application Essays and Characters in Higher Education Admissions" has been accepted to [NCME 2024](https://www.ncme.org/home){:target="_blank"}!
 
-**Oct 11th, 2023** My advisor and I gave a talk about our on-going literature review "Bias in Large Language Models in Education:
+**Oct, 2023** Gave a talk about our on-going literature review "Bias in Large Language Models in Education:
 Sources, Measures, and Mitigation Strategies" at [NCME-AIMC](https://www.ncme-aime.org/){:target="_blank"}(National Council on Measurement in Education-AI in Measurement and Education) 
 
-**July 7th, 2023** Our workshop paper "Augmenting Holistic Review in University Admission using Natural Language Processing for Essays and Recommendation Letters" has been accepted to AIED Tokyo 2023!
+**Jul, 2023** Our workshop paper "Augmenting Holistic Review in University Admission using Natural Language Processing for Essays and Recommendation Letters" has been accepted to AIED Tokyo 2023!
 
 ## Selected Publications
 
