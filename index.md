@@ -15,7 +15,7 @@ Prior to Cornell, I spent several years as a data scientist at Korea University 
 I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening to music and curating songs!
 
 ## News
-**Apr, 2025** Relocating to NYC this summer! Excited to be a [PiTech Fellow](https://www.pi.tech.cornell.edu/pitech-phd-impact-fellowship)
+**Apr, 2025** Relocating to NYC this summer - Excited to be a [PiTech Fellow](https://www.pi.tech.cornell.edu/pitech-phd-impact-fellowship)!
  
 **Mar, 2025** New paper is out! [Poor Alignment and Steerability of Large Language Models: Evidence from College Admission Essays](https://arxiv.org/abs/2503.20062){:target="_blank"}
 
