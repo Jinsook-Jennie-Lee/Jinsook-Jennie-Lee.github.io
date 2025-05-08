@@ -15,6 +15,8 @@ Prior to Cornell, I spent several years as a data scientist at Korea University 
 I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening to music and curating songs!
 
 ## News
+**May, 2025** I became a PhD candidate! 
+
 **Apr, 2025** Our work has been presented at [ICLR-HAIC 2025 workshop](https://sites.google.com/stanford.edu/haic2025/home) and [Georgetown University](https://events.georgetown.edu/psychology/event/29526-psychology-colloquium-dr-aj-alvero) 
 
 **Apr, 2025** Relocating to NYC this summer - Excited to be a [PiTech Fellow](https://www.pi.tech.cornell.edu/pitech-phd-impact-fellowship)!
