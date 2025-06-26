@@ -65,13 +65,14 @@ AJ Alvero, **Jinsook Lee**, Alejandra Regla-Vargas, René F. Kizilcec, Thorsten 
 **Jinsook Lee**, Kibum Moon, Suyeon Han, Sukang Lee, Hyejung Kwon, Jaeho Han and Gyutae Kim\
 *Journal of Educational Technology, 37(2), 267-307*
 
-## Academic Services
+## Academic Service
 **Reviewer**\
+Frontiers in Psychiatry
 ACM Conference on Fairness, Accountability, and Transparency (FAccT’25)\
-International Journal of Artificial Intelligence in Education (IJAIED)
+International Journal of Artificial Intelligence in Education (IJAIED)\
 
 
-## Teaching Experiences
+## Teaching Experience
 **TA**\
-SP25;SP24;FA22 INFO4100/5101: Learning Analytics | Instructor: Prof. René F. Kizilcec\
-FA24 INFO/STS 4240/5240: Designing Technologies for Social Impact | Instructor: Prof. Chris Csíkszentmihályi 
+SP25;SP24;FA22 INFO4100 Learning Analytics (Instructor: Prof. René F. Kizilcec)\
+FA24 INFO4240 Designing Technologies for Social Impact (Instructor: Prof. Chris Csíkszentmihályi) 
