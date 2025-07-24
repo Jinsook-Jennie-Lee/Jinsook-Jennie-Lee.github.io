@@ -15,6 +15,8 @@ Prior to Cornell, I spent several years as a data scientist at Korea University 
 I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening to music and curating songs!
 
 ## News
+**Jul, 2025** Our work [Poor Alignment and Steerability of Large Language Models: Evidence from College Admission Essays](https://arxiv.org/abs/2503.20062){:target="_blank"} has been accepted to [COLM](https://colmweb.org/) [Social Simulation Workshop](https://sites.google.com/view/social-sims-with-llms)!  
+
 **May, 2025** I became a PhD candidate! 
 
 **Apr, 2025** Our work has been presented at [ICLR-HAIC 2025 workshop](https://sites.google.com/stanford.edu/haic2025/home) and [Georgetown University](https://events.georgetown.edu/psychology/event/29526-psychology-colloquium-dr-aj-alvero) 
