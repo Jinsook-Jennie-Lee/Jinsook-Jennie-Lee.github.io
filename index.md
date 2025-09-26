@@ -15,7 +15,9 @@ Prior to Cornell, I spent several years as a data scientist at Korea University 
 I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening to music and curating songs!
 
 ## News
-**Jul, 2025** Our work [Poor Alignment and Steerability of Large Language Models: Evidence from College Admission Essays](https://arxiv.org/abs/2503.20062){:target="_blank"} has been accepted to [COLM](https://colmweb.org/) [Social Simulation with LLMs Workshop](https://sites.google.com/view/social-sims-with-llms)!  
+**Sep, 2025** Check out my recent paper featured in [Cornell Chronicle](https://news.cornell.edu/stories/2025/09/ai-can-write-your-college-essay-it-wont-sound-you){:target="_blank"}
+
+**Jul, 2025** Our work [Poor Alignment and Steerability of Large Language Models: Evidence from College Admission Essays](https://arxiv.org/abs/2503.20062){:target="_blank"} has been accepted to [COLM](https://colmweb.org/) [Social Simulation with LLMs Workshop](https://sites.google.com/view/social-sims-with-llms) and [Socially Responsible Language Modelling Research (SoLaR)](https://solar-colm.github.io/){:target="_blank"} 
 
 **May, 2025** I became a PhD candidate! 
 
