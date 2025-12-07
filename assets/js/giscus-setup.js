@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Jinsook-Jennie-Lee/Jinsook-Jennie-Lee.github.io",
+    "data-repo": "Jinsook-Jennie-Lee/jinsook-jennie-lee.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
