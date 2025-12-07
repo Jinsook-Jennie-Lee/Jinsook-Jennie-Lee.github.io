@@ -2,35 +2,37 @@
 layout: about
 title: about
 permalink: /
-nav: true
-nav_order: 1
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: IMG_5222.JPG
-  image_circular: True # crops the image to make it circular
-  more_info: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
+  image: JinsookLee2025.jpg
+  image_circular: False # crops the image to make it circular
+  more_info: 
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Ph.D. candidate in Information Science at Cornell University advised by [René F. Kizilcec](https://rene.kizilcec.com){:target="_blank"} in the [Future of Learning Lab](https://learning.cis.cornell.edu/){:target="_blank"} and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj){:target="_blank"}. My research examines how AI systems reshape educational processes and equity with a focus on evaluation and decision-making in high-stakes contexts. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+At Cornell, I study how language models influence college admissions both directly through applicants' use of LLMs in essay writing, and indirectly, through how institutions interpret and act on these AI-mediated signals. My recent work analyzes (1) how policy shifts and the rise of LLM-assisted writing reconfigure the allocation of educational opportunities; (2) how LLMs write differently in terms of lexical diversity, semantic space and stylistic homogenization in college essays; and (3) how uncertainty and arbitrariness manifest in algorithmic predictions within admissions.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond admissions, I am also developing AI evaluation pipelines for tutoring data in collaboration with [National Tutoring Observatory](https://nationaltutoringobservatory.org){:target="_blank"} spanning multi-agent orchestration, and dialogue segmentation to enhance tutoring move annotation. 
+
+I'm also fortunate to collaborate with [Nikhil Garg](https://gargnikhil.com){:target="_blank"} and [AJ Alvero](https://ajalvero.com){:target="_blank"}.   
+
+Prior to Cornell, I spent several years as a data scientist at Korea University to develop course and major recommender systems to support college students' decision making process.
+
+I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening to music and curating songs!

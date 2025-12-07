@@ -1,4 +1,3 @@
-```
 ---
 layout: page
 permalink: /cv/
@@ -11,4 +10,3 @@ toc:
 ---
 
 <iframe src="{{ '/assets/pdf/Jinsook_Lee_CV.pdf' | relative_url }}" style="width: 100%; height: 100vh; border: none;"></iframe>
-```
