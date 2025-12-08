@@ -437,7 +437,7 @@ ninja.data = [{
           title: 'Check out my recent paper featured in Cornell Chronicle!',
           description: "",
           section: "News",},{id: "news-our-first-nto-paper-ai-annotation-orchestration-evaluating-llm-verifiers-to-improve-the-quality-of-llm-annotations-in-learning-analytics-has-been-accepted-to-learning-analytics-and-knowledge-lak26",
-          title: 'Our first NTO paper “AI Annotation Orchestration: Evaluating LLM Verifiers to Improve the...',
+          title: 'Our first NTO paper AI Annotation Orchestration: Evaluating LLM Verifiers to Improve the...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
