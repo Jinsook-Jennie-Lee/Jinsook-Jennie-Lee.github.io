@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Check out my recent paper featured in [Cornell Chronicle](https://news.cornell.edu/stories/2025/09/ai-can-write-your-college-essay-it-wont-sound-you){:target="_blank"}
+Check out my recent paper featured in [Cornell Chronicle](https://news.cornell.edu/stories/2025/09/ai-can-write-your-college-essay-it-wont-sound-you){:target="_blank"}!
