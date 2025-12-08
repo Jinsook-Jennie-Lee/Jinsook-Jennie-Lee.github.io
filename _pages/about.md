@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Ph.D. candidate in Information Science at Cornell University advised by [René F. Kizilcec](https://rene.kizilcec.com){:target="_blank"} in the [Future of Learning Lab](https://learning.cis.cornell.edu/){:target="_blank"} and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj){:target="_blank"}. My research examines how AI systems reshape educational processes and equity with a focus on evaluation and decision-making in high-stakes contexts. 
+I'm a Ph.D. candidate in Information Science at Cornell University advised by [René F. Kizilcec](https://rene.kizilcec.com){:target="_blank"} in the [Future of Learning Lab](https://learning.cis.cornell.edu/){:target="_blank"} and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj){:target="_blank"}. My research studies socio-technical systems in education through the lens of computational social science, focusing on how AI technologies influence evaluation, decision-making, and equity in high-stakes contexts. 
 
 At Cornell, I study how language models influence college admissions both directly through applicants' use of LLMs in essay writing, and indirectly, through how institutions interpret and act on these AI-mediated signals. My recent work analyzes (1) how policy shifts and the rise of LLM-assisted writing reconfigure the allocation of educational opportunities; (2) how LLMs write differently in terms of lexical diversity, semantic space and stylistic homogenization in college essays; and (3) how uncertainty and arbitrariness manifest in algorithmic predictions within admissions.
 
