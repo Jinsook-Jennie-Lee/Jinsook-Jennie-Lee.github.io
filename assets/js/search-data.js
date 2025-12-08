@@ -434,7 +434,7 @@ ninja.data = [{
           title: 'Our work Poor Alignment and Steerability of Large Language Models: Evidence from College...',
           description: "",
           section: "News",},{id: "news-check-out-my-recent-paper-featured-in-cornell-chronicle",
-          title: 'Check out my recent paper featured in Cornell Chronicle',
+          title: 'Check out my recent paper featured in Cornell Chronicle!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
