@@ -35,8 +35,4 @@ I'm also fortunate to collaborate with [Nikhil Garg](https://gargnikhil.com){:ta
 
 Prior to Cornell, I spent several years as a data scientist at Korea University to develop course and major recommender systems to support college students' decision making process.
 
-I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening to music and curating songs!
-
-I'm proud that this list has been updated by my lovely cohort [Ruth Martinez-Yepes](http://ruthmy.com/).
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0AZX5DtlIl7mfLkqg4QZKO?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening to music and curating songs! 
